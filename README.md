@@ -56,7 +56,7 @@ npm start
 
 | Email | Password |
 |-------|----------|
-| gattuyashwanth22@gmail.com | admin123 |
+| gattuyashwanth22@gmail.com | Gattu |
 
 ## Routes
 
